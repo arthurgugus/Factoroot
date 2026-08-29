@@ -1,4 +1,4 @@
-#Factoroot
+# Factoroot
 
 **Factoroot** est un jeu de gestion dans le style de Factorio développé avec le moteur **Godot** pour le hackathon de Aywen.
 
