@@ -1,5 +1,8 @@
 # Factoroot
 
+<img width="676" height="369" alt="Logo" src="https://github.com/user-attachments/assets/e7d43ae5-0587-470d-be48-999240faf582" />
+
+
 **Factoroot** est un jeu de gestion dans le style de Factorio développé avec le moteur **Godot** pour le hackathon de Aywen.
 
 Votre but est de créer une usine automatisée pour fournir le AywenShop avec des peluches ou des statues de Root en metal. Il faudra donc construire votre usine mais aussi gérer els stocks et vérifier le prix des matières premières
