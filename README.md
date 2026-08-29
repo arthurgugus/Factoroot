@@ -6,7 +6,7 @@ Votre but est de créer une usine automatisée pour fournir le AywenShop avec de
 
 ---
 
-##Fonctionnalités principales
+## Fonctionnalités principales
 
 * **Construction et Automatisation** : Posez des convoyeurs et des machines pour acheminer et transformer vos ressources en merch pour la boutique de Aiwen
 * **Système de Craft Échelonné** : 
@@ -17,14 +17,14 @@ Votre but est de créer une usine automatisée pour fournir le AywenShop avec de
 
 ---
 
-##Fiche Technique
+## Fiche Technique
 
 * **Moteur de jeu** : Godot 4 (GDScript)
 * **Architecture** : Gestion centralisée des bases de données (`Database`), gestion des grilles et des connexions de convoyeurs (`GridManager`)
 
 ---
 
-##Comment jouer (Contrôles)
+## Comment jouer (Contrôles)
 
 * **Clic gauche** : Poser le bâtiment sélectionné (nécessite des fonds suffisants).
 * **Clic droit** : Supprimer un bâtiment ou un convoyeur.
@@ -34,7 +34,7 @@ Votre but est de créer une usine automatisée pour fournir le AywenShop avec de
 
 ---
 
-## 📦 Installation et Lancement
+## Installation et Lancement
 
 1. Rendez-vous dans les Releases du projet (https://github.com/arthurgugus/Factoroot/releases)
 2. Télécharger la dernière version
